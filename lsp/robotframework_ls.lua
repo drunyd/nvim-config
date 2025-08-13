@@ -3,7 +3,7 @@ local capabilities = require('blink.cmp').get_lsp_capabilities()
 return {
 
 	cmd = {
-		"robotframework_ls",
+		"C:\\Users\\K858102\\AppData\\Local\\mise\\installs\\python\\3.13.2\\Scripts\\robotframework_ls",
 	},
 	filetypes = {
 		"robot",
