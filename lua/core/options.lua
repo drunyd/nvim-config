@@ -7,7 +7,7 @@ vim.api.nvim_set_hl(0, "EndOfBuffer", { bg = "none" })
 -- Basic settings
 vim.opt.title = true          -- show title
 
-vim.opt.shell = "nu"
+-- vim.opt.shell = "nu"
 -- vim.opt.titlestring = "NVIM: %t"  -- show just filename
 vim.opt.number = true         -- Line numbers
 vim.opt.relativenumber = true -- Relative line numbers

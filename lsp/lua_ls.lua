@@ -19,7 +19,7 @@ return {
     settings = {
         Lua = {
             diagnostics = {
-            globals = { "vim", "require" },
+                globals = { "vim", "require" },
                 --     disable = { "missing-parameters", "missing-fields" },
             },
             telemetry = {

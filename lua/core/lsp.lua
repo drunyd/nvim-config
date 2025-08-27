@@ -1,6 +1,7 @@
 vim.lsp.enable({
     "lua_ls",
-    "robotframework_ls"
+    "robotframework_ls",
+    "ruby_lsp"
 })
 
 vim.diagnostic.config({
