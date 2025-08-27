@@ -51,7 +51,7 @@ return {
         },
       },
       keymap = {
-        preset = "enter",
+        preset = "default",
         ["<C-space>"] = { "show", "hide" },
         ["<C-e>"] = { "show_documentation", "hide_documentation" },
       },
